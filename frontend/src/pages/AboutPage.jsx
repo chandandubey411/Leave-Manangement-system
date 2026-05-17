@@ -5,9 +5,9 @@ export default function AboutPage() {
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <div className="max-w-3xl mx-auto space-y-12">
         <div className="text-center">
-          <h1 className="text-4xl font-extrabold text-slate-900 tracking-tight mb-4">About LeaveSync</h1>
+          <h1 className="text-4xl font-extrabold text-slate-900 tracking-tight mb-4">About LeaveLo</h1>
           <p className="text-lg text-slate-600 leading-relaxed">
-            We are on a mission to simplify human resources for modern enterprises. LeaveSync was built from the ground up to eliminate the friction between employees needing time off and managers needing to ensure operational coverage.
+            We are on a mission to simplify human resources for modern enterprises. LeaveLo was built from the ground up to eliminate the friction between employees needing time off and managers needing to ensure operational coverage.
           </p>
         </div>
 
@@ -17,7 +17,7 @@ export default function AboutPage() {
               <Users2 className="w-6 h-6 text-indigo-600" />
             </div>
             <h3 className="text-lg font-semibold text-slate-900 mb-2">Employee First</h3>
-            <p className="text-sm text-slate-600">Designed with a consumer-grade experience so your team actually enjoys using it.</p>
+            <p className="text-sm text-slate-600">Designed with a consumer-grade experience so Employees actually enjoys using it.</p>
           </div>
           <div className="text-center p-6 bg-white rounded-2xl border border-slate-100 shadow-sm">
             <div className="w-12 h-12 mx-auto bg-indigo-50 rounded-xl flex items-center justify-center mb-4">

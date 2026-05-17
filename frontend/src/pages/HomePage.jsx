@@ -16,7 +16,7 @@ export default function HomePage() {
               Modern Leave Management for <span className="text-indigo-600">Enterprise Teams</span>
             </h1>
             <p className="text-lg text-slate-600 mb-10 leading-relaxed">
-              Streamline your HR workflows, empower employees, and eliminate spreadsheet chaos with LeaveSync. The intelligent platform built for the future of work.
+              Streamline your HR workflows, empower employees, and eliminate spreadsheet chaos with LeaveLo. The intelligent platform built for the future of work.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <Button variant="primary" size="lg" className="w-full sm:w-auto text-base" onClick={() => navigate('/signup')}>
@@ -86,7 +86,7 @@ export default function HomePage() {
             <div>
               <h2 className="text-3xl font-bold text-slate-900 mb-6">A dashboard your team will actually love using.</h2>
               <p className="text-lg text-slate-600 mb-8">
-                Say goodbye to clunky enterprise software. LeaveSync provides a consumer-grade experience wrapped in enterprise-grade security. Employees can view balances, apply for leave, and see company holidays in seconds.
+                Say goodbye to clunky enterprise software. LeaveLo provides a consumer-grade experience wrapped in enterprise-grade security. Employees can view balances, apply for leave, and see company holidays in seconds.
               </p>
               <ul className="space-y-4 mb-8">
                 {[
@@ -132,7 +132,7 @@ export default function HomePage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
           <h2 className="text-3xl font-bold text-white mb-6">Ready to transform your HR processes?</h2>
           <p className="text-lg text-slate-300 mb-10">
-            Join hundreds of forward-thinking companies that have already upgraded to LeaveSync.
+            Join hundreds of forward-thinking companies that have already upgraded to LeaveLo.
           </p>
           <Button variant="primary" size="lg" className="text-base bg-white text-slate-900 hover:bg-slate-100 border-none" onClick={() => navigate('/signup')}>
             Create your account today

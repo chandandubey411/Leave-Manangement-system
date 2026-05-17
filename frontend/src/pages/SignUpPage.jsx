@@ -60,7 +60,7 @@ function SignUpPage() {
             </svg>
           </div>
           <div>
-            <p className="text-sm font-semibold text-slate-900 leading-none">LeaveSync</p>
+            <p className="text-sm font-semibold text-slate-900 leading-none">LeaveLo</p>
             <p className="text-[11px] text-slate-500 mt-0.5">Create Account</p>
           </div>
         </div>
@@ -234,7 +234,7 @@ function SignUpPage() {
       </div>
 
       <p className="mt-6 text-xs text-slate-400">
-        © {new Date().getFullYear()} LeaveSync · All rights reserved
+        © {new Date().getFullYear()} LeaveLo · All rights reserved
       </p>
     </div>
   );

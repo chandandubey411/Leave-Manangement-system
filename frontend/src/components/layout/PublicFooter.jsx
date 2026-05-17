@@ -11,7 +11,7 @@ export default function PublicFooter() {
               <div className="w-8 h-8 bg-indigo-500 rounded-lg flex items-center justify-center">
                 <CalendarDays className="w-5 h-5 text-white" />
               </div>
-              <span className="font-bold text-xl text-white tracking-tight">LeaveSync</span>
+              <span className="font-bold text-xl text-white tracking-tight">LeaveLo</span>
             </Link>
             <p className="text-sm text-slate-400 max-w-sm">
               The modern, enterprise-grade leave management system designed to simplify time-off requests, approvals, and tracking for growing teams.
@@ -37,7 +37,7 @@ export default function PublicFooter() {
           </div>
         </div>
         <div className="mt-12 pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-4 text-sm">
-          <p>&copy; {new Date().getFullYear()} LeaveSync. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} LeaveLo. All rights reserved.</p>
           <p>Built for Enterprise Productivity.</p>
         </div>
       </div>
